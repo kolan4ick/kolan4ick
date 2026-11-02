@@ -5,7 +5,7 @@
 
 [![LinkedIn: Mykola Yuryshynets](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/mykola-yuryshynets/)
 [![Email Mykola](https://custom-icon-badges.demolab.com/badge/Email-EA4335?style=flat&logo=mail&logoColor=white)](mailto:work.yuryshynets.mykola@gmail.com)
-[![Codewars: kolan4ick](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/kolan4ick)
+[![Codewars rank: kolan4ick](https://www.codewars.com/users/kolan4ick/badges/micro)](https://www.codewars.com/users/kolan4ick)
 
 I build web applications and APIs, with a focus on **Ruby on Rails backend development** and interactive interfaces with **Hotwire (Turbo and Stimulus)**. I take features from development through production deployment, including database-backed features, background jobs, and third-party integrations.
 <br>
